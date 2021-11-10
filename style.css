@@ -100,7 +100,7 @@ main{
 .task-list h2 {
   font-size: 1.5rem;
   font-weight: 300;
-  color: var(--light);
+  color: var(--gray);
   margin-bottom: 1rem;
 }
   
